@@ -1,0 +1,14 @@
+c:\Users\leocp\Desktop\TesteLogico\TesteLogico\bin\Debug\net9.0\TesteLogico.exe
+c:\Users\leocp\Desktop\TesteLogico\TesteLogico\bin\Debug\net9.0\TesteLogico.deps.json
+c:\Users\leocp\Desktop\TesteLogico\TesteLogico\bin\Debug\net9.0\TesteLogico.runtimeconfig.json
+c:\Users\leocp\Desktop\TesteLogico\TesteLogico\bin\Debug\net9.0\TesteLogico.dll
+c:\Users\leocp\Desktop\TesteLogico\TesteLogico\bin\Debug\net9.0\TesteLogico.pdb
+c:\Users\leocp\Desktop\TesteLogico\TesteLogico\obj\Debug\net9.0\TesteLogico.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\leocp\Desktop\TesteLogico\TesteLogico\obj\Debug\net9.0\TesteLogico.AssemblyInfoInputs.cache
+c:\Users\leocp\Desktop\TesteLogico\TesteLogico\obj\Debug\net9.0\TesteLogico.AssemblyInfo.cs
+c:\Users\leocp\Desktop\TesteLogico\TesteLogico\obj\Debug\net9.0\TesteLogico.csproj.CoreCompileInputs.cache
+c:\Users\leocp\Desktop\TesteLogico\TesteLogico\obj\Debug\net9.0\TesteLogico.dll
+c:\Users\leocp\Desktop\TesteLogico\TesteLogico\obj\Debug\net9.0\refint\TesteLogico.dll
+c:\Users\leocp\Desktop\TesteLogico\TesteLogico\obj\Debug\net9.0\TesteLogico.pdb
+c:\Users\leocp\Desktop\TesteLogico\TesteLogico\obj\Debug\net9.0\TesteLogico.genruntimeconfig.cache
+c:\Users\leocp\Desktop\TesteLogico\TesteLogico\obj\Debug\net9.0\ref\TesteLogico.dll
